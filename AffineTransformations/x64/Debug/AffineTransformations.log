@@ -1,0 +1,34 @@
+﻿  AffineTransformations.cpp
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(50,33): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(51,33): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(61,22): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(62,22): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(84,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(89,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(90,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(91,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(106,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(108,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(118,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(120,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(123,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(128,27): warning C4305: '=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(129,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\AffineTransformations\AffineTransformations.cpp(130,22): warning C4305: '=': truncation from 'double' to 'float'
+  AffineTransformations.vcxproj -> D:\2023-2024-msc\3-D-computer-vision-practice\Assignments\1-Affine-Transformations\AffineTransformations\x64\Debug\AffineTransformations.exe
